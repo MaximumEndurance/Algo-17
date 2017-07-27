@@ -1,0 +1,11 @@
+Always use char array over string during interviews.
+
+2. Do merge sort using single array.
+3. Analyse time and space complexity.
+
+Containers: 1. Adapters 2. Sequential 3. Associative
+Seq: vector, linked list
+Assoc : (key,value) pairs, map, set
+Adapters: set , stack, queues, Are actaully vectors with restrictions. 
+
+iterator is a pointer like object;
